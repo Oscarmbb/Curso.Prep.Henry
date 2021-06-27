@@ -1,0 +1,15 @@
+Homework: Introducción a JavaScript
+Oscar Bustos
+26jun21
+
+
+- Variable es un espacio de memoria del computador donde se puede guardar cualquier valor
+
+- String en un conjunto de caracteres consecutivos
+
+- Funciones son un conjunto de instrucciones que se ejecutarán para obtener un objetivo o un resultado específico, y que pueden ser usadas varias veces dentro de un programa.  A las funciones se les puede dar argumentos, que son valores con los que una función debe ejecutarse; dependiendo de los argumentos que una función reciba, su resultado será variado.  El resultado de la ejecución de una función será entregado al programa general a través de la instrucción "return"
+
+- Declaraciones "if" son instrucciones que nos permiten secuenciar grupos de instrucciones a ser ejecutadas dependiendo de una condición dada
+
+- Valores booleanos son aquellos que solo pueden tener 2 opciones, por ejemplo: sí o no, prendido o apagado, 1 o 0, etc.
+
