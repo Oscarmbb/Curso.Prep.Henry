@@ -1,0 +1,8 @@
+Homework: JavaScript II
+Oscar Bustos
+28jun21
+
+
+- for ---> es una función de repetición que ejecuta varias veces el código que está dentro de esta función hasta que la condición indicada sea cumplida.
+
+- &&, ||, ! ---> son operadores lógicos (and, or, not) que nos permiten ejecutar operaciones lógicas con términos booleanos.
