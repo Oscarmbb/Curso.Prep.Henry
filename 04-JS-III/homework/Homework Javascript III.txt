@@ -1,0 +1,6 @@
+Homework: JavaScript III
+Oscar Bustos
+1jul21
+
+
+- arrays ---> son variables en donde podemos guardar colecciones de datos, los cuales pueden ser de cualquier de los diferentes tipos que ya conocemos.
