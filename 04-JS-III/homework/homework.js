@@ -208,7 +208,7 @@ function mesesDelAño(array) {
       resultado.push(array[i]);
     }
   }
-  if (resultado.length === 0) {
+  if (resultado.length < 3) {
     return 'No se encontraron los meses pedidos';
     } else {
       return resultado;
@@ -244,11 +244,14 @@ function breakStatement(numero) {
     numero = numero + 2;
     resultado.push(numero);
     if (numero === i) {
-      console.log ('Se interrumpió la ejecución');
       break
     }
   }
-  return resultado;
+  if (i < 10) {
+    return 'Se interrumpió la ejecución';
+    } else {
+      return resultado;
+      }
 }
 
 
