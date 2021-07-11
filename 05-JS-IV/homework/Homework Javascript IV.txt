@@ -1,0 +1,14 @@
+Homework: JavaScript IV
+Oscar Bustos
+10jul21
+
+
+- objetos: son arreglos en donde cada argumento puede ser identificado con un nombre.
+
+- propiedades: es la relación existente en la asignación de un valor a una clave
+
+- métodos: son funciones que forman parte de un objeto
+
+- bucle for..in: es la función de repetición que podemos usar en arreglos que no tienen índices numéricos
+
+- notación de puntos vs notación de corchetes: la notación de puntos para acceder a los valores de un objeto es más práctica, porque solo usa un punto para separar al nombre del objeto con su clave, pero no nos facilita el uso de variables;  la notación de corchetes se la usa de igual manera que en los arreglos y es la notación a usar cuando necesitamos usar variables
