@@ -1,0 +1,8 @@
+Homework: JavaScript V
+Oscar Bustos
+11jul21
+
+
+- prototype:  Es una plantilla general que se puede usar para no repetir la creación de métodos iguales para varios objetos
+
+- Constructors:  Son plantillas generales que se pueden usar para no repetir la creación de propiedades iguales para varios objetos
